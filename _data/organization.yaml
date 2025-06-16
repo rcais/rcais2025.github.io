@@ -1,0 +1,43 @@
+members:
+  - name: Mark Riedl
+    website: https://eilab.gatech.edu/mark-riedl.html
+    title: Professor
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: https://eilab.gatech.edu/assets/images/mark-potato.jpg
+  - name: Andrea Parker
+    website: https://faculty.cc.gatech.edu/~andrea/
+    title: Associate Professor
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: https://faculty.cc.gatech.edu/~andrea/images/Parker_Andrea_006.jpg
+  - name: Josiah Hester
+    website: https://josiahhester.com/cv/
+    title: Associate Professor
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: https://josiahhester.com/cv/img/headshot3.jpg
+  - name: Shaowen Bardzell
+    website: https://shaowenbardzell.com/
+    title: Professor and Chair
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: https://shaowenbardzell.com/wp-content/uploads/2013/07/bardzell-shaowen.jpeg
+  - name: Kartik Goyal
+    website: https://kartikgo.github.io/
+    title: Assistant Professor
+    affiliation: School of Interactive Computing, Georgia Tech
+    image: "https://www.cc.gatech.edu/sites/default/files/styles/profile_150x180_/public/images/profiles/2023-10/kartik_goyal.jpg"
+volunteers:
+  - name: Amal Alabdulkarim
+    title: PhD Student
+    affiliation: Georgia Tech
+  - name: Adrian Choi 
+    title: PhD Student
+    affiliation: Georgia Tech
+  - name: Sherilyn Francis
+    title: PhD Student
+    affiliation: Georgia Tech
+  - name: Hiya Sachdev
+    title: MS Student
+    affiliation: Georgia Tech
+staff:
+  - name: Teresa Dodson
+    title: Assistant to the Chair
+    affiliation: Georgia Tech

@@ -1,0 +1,147 @@
+monday:
+  - slots:
+    - time: "11:30"
+      activity: "Doctoral Consortium: Welcome"
+    - time: "12:00"
+      activity: "Lunch + meeting mentors"
+    - time: "1:30"
+      activity: "Lightning talks, part 1"
+    - time: "2:30"
+      activity: Break
+    - time: "2:45"
+      activity: "Lightning talks, part 2"
+    - time: "3:45"
+      activity: Birds-of-a-feather groups
+    - time: "4:45"
+      activity: Break
+    - time: "5:00"
+      activity: Panel (Moderated by Neha Kumar)
+    - time: "6:00"
+      activity: Doctoral Consortium Dinner (TSRB building, Interactive Computing Cafe, 2nd floor)
+tuesday:
+  - slots:
+    - time: "8:30"
+      activity: Welcome
+    - time: "9:00"
+      activity: Keynote 
+      discussant: Mark Riedl
+      tracks:
+        - name: Meredith Ringel Morris
+    - time: "10:15"
+      activity: Break
+    - time: "10:45"
+      activity: Invited talks
+      tracks:
+        - name: Jeff Bigham
+        - name: "Catherine D'Ignazio"
+        - name: Milind Tambe
+    - time: "11:15"
+      activity: Invited talks
+      tracks:
+        - name: Chris MacLellan
+        - name: Neha Kumar
+        - name: Cindy Lin
+    - time: "11:45"
+      activity: Discussions
+      tracks: 
+        - name: Ari Schlesinger
+        - name: "Jennifer Kim"
+        - name: Josiah Hester
+    - time: "12:00"
+      activity: Lunch
+    - time: "1:30"
+      activity: Keynote 
+      discussant: Andrea Parker
+      tracks:
+        - name: Tiffany Veinot
+    - time: "2:45"
+      activity: Break
+    - time: "3:15"
+      activity: Invited talks
+      tracks:
+        - name: Tal August
+        - name: Desmond Patton
+        - name: Pedro Lopes
+    - time: "3:45"
+      activity: Invited talks
+      tracks:
+        - name: Alan Ritter
+        - name: Munmun De Choudhury
+        - name: Heidi Biggs
+    - time: "4:15"
+      activity: Discussions
+      tracks:
+        - name: Kartik Goyal
+        - name: Betsy DiSalvo
+        - name: Neha Kumar
+    - time: "4:30"
+      activity: Short Break
+    - time: "4:45"
+      activity: Invited talks
+      tracks:
+        - name: Hima Lakkaraju
+        - name: Stephen Pfohl
+        - name: Udit Gupta
+    - time: "5:15"
+      activity: Invited talks
+      tracks: 
+        - name: Upol Ehsan
+        - name: Rosa Arriaga
+        - name: Clio Andris
+    - time: "5:45"
+      activity: Discussions
+      tracks:
+        - name: Sonia Chernova
+        - name: Alex Adams
+        - name: Cindy Lin
+    - time: "6:00"
+      activity: Reception and DC Posters
+wednesday:
+  - slots:
+    - time: "8:45"
+      activity: Welcome
+    - time: "9:00"
+      activity: Invited Talk 
+      tracks:
+        - name: "Orly Lobel"
+    - time: "9:30"
+      activity: Invited Talk
+      tracks:
+        - name: Divyansh Kaushik
+    - time: "10:00"
+      activity: Discussion
+      tracks:
+        - name: Deven Desai
+    - time: "10:15"
+      activity: Break
+    - time: "10:45"
+      activity: Invited talks
+      tracks:
+        - name: Jesse Thomason
+        - name: Chinasa T. Okolo
+    - time: "11:15"
+      activity: Invited talks
+      tracks: 
+        - name: Matthew Gombolay
+        - name: Naveena Karusala
+    - time: "11:45"
+      activity: Discussions
+      tracks: 
+        - name: Zsolt Kira
+        - name: Christina Harrington
+    - time: "12:00"
+      activity: Lunch
+    - time: "1:30"
+      activity: Invited talk
+      tracks:
+        - name: Sorelle Friedler
+    - time: "2:00"
+      activity: Invited talk
+      tracks:
+        - name: Jacob Metcalf
+    - time: "2:30"
+      activity: Discussion
+      tracks:
+        - name: Naveena Karusala
+    - time: "2:45"
+      activity: Closing

@@ -1,0 +1,13 @@
+main:
+  - title: "Agenda"
+    url: agenda/
+  - title: "Speakers"
+    url: speakers/
+  - title: "Venue"
+    url: "location/"
+  - title: "Doctoral Consortium"
+    url: "doctoral-consortium/"
+  - title: "Organization"
+    url: organization/
+  - title: "Registration"
+    url: registration/

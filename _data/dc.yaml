@@ -1,0 +1,115 @@
+participants:
+  - name: Sanket Shah
+    website: https://sanketkshah.github.io/
+    affiliation: Harvard University
+    image: https://sanketkshah.github.io/authors/sanketkshah/avatar_hu02aa61ae1d9de35cbe238d2676170cb9_554501_250x250_fill_q90_lanczos_center.jpg
+  - name: Caitie Lustig
+    website: https://caitie.io/
+    affiliation: University of Washington
+    image: https://caitie.io/wp-content/uploads/2019/08/Caitie-Lustig-picture.jpg
+  - name: Sunnie S.Y. Kim
+    website: https://sunniesuhyoung.github.io/
+    affiliation: Princeton University
+    image: https://sunniesuhyoung.github.io/sunnie.png
+  - name: Eunkyung Jo
+    website: https://www.eunkyungjo.com/
+    affiliation: University of California, Irvine
+    image: https://www.eunkyungjo.com/uploads/1/1/7/8/117894411/5r_orig.jpg
+  - name: Ashley Bhogal
+    website: https://scholar.google.com/citations?user=EUNXJRIAAAAJ&hl=en
+    affiliation: University of Michigan
+  - name: Alicia DeVrio
+    website: https://www.aliciadevos.com/
+    affiliation: Carnegie Mellon University
+  - name: Tejas Srinivasan
+    website: https://tejas1995.github.io/
+    affiliation: University of Southern California
+    image: https://tejas1995.github.io/images/tejas.png
+  - name: Kimi Wenzel
+    website: https://kimiwenzel.com/
+    affiliation: Carnegie Mellon University
+    image: https://www.hcii.cmu.edu/sites/default/files/styles/person_portrait_image/public/images/person/kimi_wenzel.jpeg.webp
+  - name: Angie Zhang
+    website: https://angiezhang.owlstown.net/
+    affiliation: University of Texas
+    image: https://spaces-cdn.owlstown.com/blobs/nfuxp3lfef6wsjy68r7h04q5ahk3
+  - name: Shreyasha Paudel
+    website: https://scholar.google.com/citations?user=AbniDkgAAAAJ&hl=en
+    affiliation: University of Toronto
+  - name: Gennie Mansi
+    website: https://www.linkedin.com/in/gennie-mansi-308a49269
+    affiliation: Georgia Tech
+  - name: Raj Sanjay Shah
+    website: https://raj-sanjay-shah.github.io/
+    affiliation: Georgia Tech
+    image: https://raj-sanjay-shah.github.io/assets/img/IMG_3085-1400.webp
+  - name: Annabel Rothschild
+    website: https://annabelrothschild.com/
+    image: https://filedn.eu/lldOHjCIRMjfewo3JirFYqh/website-images/profile.jpg
+    affiliation: Georgia Tech
+  - name: Camille Harris
+    website: https://camille2019.github.io/
+    affiliation: Georgia Tech
+    image: https://camille2019.github.io/assets/img/camille-1400.webp
+  - name: Niharika Mathur
+    website: https://www.niharikamathur.com/
+    affiliation: Georgia Tech
+    image: https://static.wixstatic.com/media/a71cc9_b0647fc74766455d9d3fad9d174a35f4~mv2.jpg/v1/crop/x_23,y_0,w_867,h_1006/fill/w_438,h_470,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/IMG_8448_edited_edited.jpg
+  - name: Ashley Boone
+    website: https://abooneportfolio.com/
+    affiliation: Georgia Tech
+    image: https://abooneportfolio.com/static/media/Ashley.fafd910882c31902fc6e.jpg
+  - name: Maithili Patel
+    website: https://maithili.github.io/
+    affiliation: Georgia Tech
+    image: https://maithili.github.io/assets/img/profile.jpg
+  - name: Jasmine Foriest
+    website: https://www.jcforiest.com/
+    affiliation: Georgia Tech
+  - name: Emily Eunji Kim
+    website: https://www.linkedin.com/in/emily-eunji-kim-4780b9233/
+    affiliation: Georgia Tech
+  - name: Vanessa Oguamanam
+    website: https://scholar.google.com/citations?user=xz3Ay8AAAAAJ&hl=en
+    affiliation: Georgia Tech
+    image: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=xz3Ay8AAAAAJ&citpid=2
+mentors:
+  - name: Ding Wang
+    affiliation: Google Research
+    website: https://research.google/people/107654/?&type=google
+    title: Research Scientist
+  - name: Cindy Lin
+    affiliation: Georgia Tech
+    website: https://lincindy.com/
+    title: Stephen Fleming Early Career Assistant Professor
+  - name: Mark Riedl
+    affiliation: Georgia Tech
+    website: https://eilab.gatech.edu/mark-riedl.html
+    title: Professor
+  - name: Lynn Dombrowski
+    affiliation: Georgia Tech
+    website: http://www.lynndombrowski.com/
+    title: Associate Professor
+  - name: Rosa Arriaga
+    affiliation: Georgia Tech
+    website: https://sites.google.com/view/riarriaga/home
+    title: Associate Professor
+  - name: Beki Grinter
+    affiliation: Georgia Tech
+    website: https://faculty.cc.gatech.edu/~beki/Beki.html
+    title: Professor
+  - name: Tiffany Veinot
+    website: https://www.si.umich.edu/people/tiffany-veinot
+    affiliation: University of Michigan
+    title: Joan C Durrance Collegiate Professor of Information and Associate Dean of the School of Information 
+    image: "https://brand.amia.org/asset/381cc61a-5e62-4718-8e0c-71305470d418/Large_Square/Tiffany-Veinot"
+  - name: Jesse Thomason
+    website: https://jessethomason.com/
+    title: Assistant Professor
+    affiliation: University of Southern California
+    image: https://jessethomason.com/thumbnails/face.jpg
+  - name: Neha Kumar
+    website: https://www.nehakumar.org/
+    title: Associate Professor
+    affiliation: Georgia Tech
+    image: "https://images.squarespace-cdn.com/content/v1/59f549a3b7411c736b42936a/1ce5b50d-ade0-4500-8692-a91cb4495a46/neha+headshot+bw.jpeg"
